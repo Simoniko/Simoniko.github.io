@@ -1,6 +1,6 @@
 <html>
 <head>
-<!--<title>RPoD v1.0 - Patch Notes</title>-->
+<title>RPoD v1.0 - Patch Notes</title>
     <p><i>10-08-2022</i></p>
 <link rel="stylesheet" type="text/css" href="/Payday-2-Mod-Updates/style.css">
 <style type="text/css">
@@ -25,7 +25,7 @@ body, html {
 </head>
 <body>
 <div id="mainContainer" class="markdown-body">
-<h2>Extra Profiles and Skill Sets v1.0 - Patch Notes</h2>
+<!--<h2>Extra Profiles and Skill Sets v1.0 - Patch Notes</h2>-->
 <ul>
     <p>Version 1.0: </p>
 <p> • Release of the mod.</p>
