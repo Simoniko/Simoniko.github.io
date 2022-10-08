@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <title>Extra Profiles and Skill Sets v1.0 - Patch Notes</title>
@@ -31,7 +30,6 @@ body, html {
 </ul>
 <br>
 <p><i>2020-02-28 - Update 199 Mark II</i></p>
-<p><i>Mod Hash: 60b2f8e1f56c21dd1b4e7c7fc0a50ff31ddded6c7b846c250b1715c6c1597f3b</i></p>
 </div>
 </body>
 </html>
