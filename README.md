@@ -1,6 +1,7 @@
 <html>
 <head>
 <!--<title>RPoD v1.0 - Patch Notes</title>-->
+    <p><i>10-08-2022</i></p>
 <link rel="stylesheet" type="text/css" href="/Payday-2-Mod-Updates/style.css">
 <style type="text/css">
 body, html {
@@ -30,7 +31,6 @@ body, html {
 <p> • Release of the mod.</p>
 </ul>
 <br>
-<p><i>10-08-2022</i></p>
 </div>
 </body>
 </html>
