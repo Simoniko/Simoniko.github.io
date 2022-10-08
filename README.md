@@ -24,7 +24,6 @@ body, html {
 </head>
 <body>
 <div id="mainContainer" class="markdown-body">
-<!--<h2>Extra Profiles and Skill Sets v1.0 - Patch Notes</h2>-->
 <ul>
     <p><i>10-08-2022</i></p>
     <p>Version 1.0: </p>
