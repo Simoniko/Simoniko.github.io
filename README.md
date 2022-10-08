@@ -30,7 +30,7 @@ body, html {
 <p> • Release of the mod.</p>
 </ul>
 <ul>
-    <p><i>10-07-2022</i></p>
+    <p><i>10-08-2022</i></p>
     <p>Version 1.1: </p>
 <p> • Fixed autoupdating.</p>
 </ul>
