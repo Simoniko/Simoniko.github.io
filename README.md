@@ -33,6 +33,7 @@ body, html {
     <p><i>10-08-2022</i></p>
     <p>Version 1.1: </p>
 <p> • Fixed autoupdating.</p>
+<p> • Fixed crashing in the Download Manager.</p>
 </ul>
 <br>
 </div>
