@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>RPoD Patch Notes</title>
+<title>RPoD - Patch Notes</title>
 <link rel="stylesheet" type="text/css" href="/Payday-2-Mod-Updates/style.css">
 <style type="text/css">
 body, html {
