@@ -35,6 +35,11 @@ body, html {
 <p> • Fixed autoupdating.</p>
 <p> • Fixed crashing in the Download Manager.</p>
 </ul>
+<ul>
+    <p><i>10-10-2022</i></p>
+    <p>Version 1.2: </p>
+<p> • Fixed guards never having pagers.</p>
+</ul>
 <br>
 </div>
 </body>
