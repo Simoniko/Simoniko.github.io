@@ -1,14 +1,14 @@
 {
-  "name": "Twizzy Repacks",
+  "name": "Twizzy Games",
   "downloads": [
 	{
-      "title": "Big Hops Free Download",
+      "title": "Big Hops Free Download + Achievements",
       "uris": [
         "https://vikingfile.com/f/VJWZdKTxVM"
       ],
       "fileSize": "782.37 MB",
 	  "uploadDate": "2026-03-15T24:27:27.773532",
-      "descriptionHtml": "<a>Source of files: FitGirl</a>"
+      "source": "FitGirl"
     },
 	{
       "title": "Crab Champions Free Download + OnlineFix",
@@ -17,7 +17,7 @@
       ],
       "uploadDate": "2026-03-15T24:27:10Z",
       "fileSize": "1.49 GB",
-	  "descriptionHtml": "<a>Source of files: OnlineFix</a>"
+	  "source": "OnlineFix"
     },
 	{
       "title": "Gunfire Reborn Free Download + OnlineFix & Achievements",
@@ -26,7 +26,7 @@
 	  ],
       "uploadDate": "2026-03-15T24:40:10Z",
       "fileSize": "2.99 GB",
-	  "descriptionHtml": "<a>Source of files: SteamRIP</a>"
+	  "source": "SteamRIP"
     },
 	{
       "title": "Unfair Flips Free Download + Achievements",
@@ -36,7 +36,18 @@
       ],
       "uploadDate": "2026-03-15T24:40:10Z",
       "fileSize": "29.87 MB",
-	  "descriptionHtml": "<a>Source of files: SteamRIP</a>"
+	  "source": "SteamRIP"
+    },
+	{
+      "title": "A Short Hike Free Download + Achievements",
+      "uris": [
+		"https://gofile.io/d/j6WuOT",
+        "https://rootz.so/d/1Fu9Nw",
+		"https://vikingfile.com/f/tg2EERWtGw"
+      ],
+      "uploadDate": "2026-03-15T24:40:10Z",
+      "fileSize": "218.3 MB",
+	  "source": "cs.rin.ru"
     }
   ]
 }
